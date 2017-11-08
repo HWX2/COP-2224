@@ -1,3 +1,4 @@
+// HelloWorldExample.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -6,8 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout <<"Hello World!";
-	cout <<"How are you doing?";
-	return 0;
+	cout << "Hello World!";
+    return 0;
 }
 
